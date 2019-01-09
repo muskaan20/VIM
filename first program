@@ -1,0 +1,23 @@
+What is void?
+ The void in parentheses here means that main does not receive any information.
+
+What is format specifiers?
+ it is used to tell the type of data.
+ 
+ What is the types of data specifiers?
+    %c is for a single character while %s is for a series of characters null-terminated
+    
+what is \n?
+If you mean by newline the newline character it is \n
+
+\n gives a new line
+eg: printf("enter your name\n");
+ this will show me that: 
+ enter your name
+ Muskaan
+ you enter in the next line bcz u have put "\n".
+ if u dont put \n then it does not take u to the next line
+ eg: Enter your name Muskaan
+ 
+ 
+ 
